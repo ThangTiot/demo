@@ -12,5 +12,5 @@ public class Dto {
     private String courseName;
     private Long productId;
     private String productName;
-    private String testbr2;
+    private String testbr1;
 }
